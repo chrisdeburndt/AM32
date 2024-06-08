@@ -2,7 +2,7 @@
 
 #ifndef USE_MAKE
 // #define F031_DEV
-// #define FD6288_F051
+#define FD6288_F051
 // #define IFLIGHT
 // #define MP6531
 // #define TMOTOR55     // like iflight but with leds
